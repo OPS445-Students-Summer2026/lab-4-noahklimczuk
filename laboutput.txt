@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: noah
+    Linux system name: nklimczuk
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]
+    VS Code version:  1.121.0 0
+    OS Platform: linux
+    Working Directory: /home/noah/ops445/lab4/lab-4-noahklimczuk
+    Start at: Fri Jun 12 16:35:45 2026
+=================================================================
